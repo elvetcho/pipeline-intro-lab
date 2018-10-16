@@ -1,1 +1,1 @@
-# pipeline-intro-lab
+# simple-java-maven-app
